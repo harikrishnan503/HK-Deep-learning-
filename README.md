@@ -12,6 +12,7 @@ Processing, Image Generation, and Computer Vision.
 
 To develop an AI-based system that generates images from text prompts and performs object
 detection on the generated images. 
+
 3. Technologies Used:
  
 Python, PyTorch, Transformers (GPT-2), Diffusers (Stable Diffusion), YOLOv8, Pillow, and
